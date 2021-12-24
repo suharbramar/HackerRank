@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBasicHackerRank/JavaBasicHackerRank.iml" filepath="$PROJECT_DIR$/JavaBasicHackerRank/JavaBasicHackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCustomAnnotation/JavaCustomAnnotation.iml" filepath="$PROJECT_DIR$/JavaCustomAnnotation/JavaCustomAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMatcherGroup/JavaMatcherGroup.iml" filepath="$PROJECT_DIR$/JavaMatcherGroup/JavaMatcherGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemSolving/ProblemSolving.iml" filepath="$PROJECT_DIR$/ProblemSolving/ProblemSolving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hackerrank.iml" filepath="$PROJECT_DIR$/.idea/hackerrank.iml" />
+    </modules>
+  </component>
+</project>
