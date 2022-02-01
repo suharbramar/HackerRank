@@ -11,6 +11,7 @@ interface MyFunctionalInterface{
 
     String printText(String text1, String text2);
 
+
 }
 
 
